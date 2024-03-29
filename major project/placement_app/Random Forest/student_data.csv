@@ -1,0 +1,251 @@
+Sno,Gender,10th %,SSC Board,12th %,HSC Board,12th Stream,Degree %,Degree stream,Internships,status,salary,course,E-Test %
+1,F,86,State,72,State,Science,82,Commerce,No,Not Placed,376443,Fullstack,68
+2,M,64,State,62,State,Science,88,Commerce,No,Not Placed,326070,AI,98
+3,F,61,Others,90,State,Science,90,Commerce,No,Not Placed,212678,Blockchain,68
+4,M,82,State,85,Others,Science,92,Commerce,No,Not Placed,198932,ML,65
+5,F,84,State,67,State,Commerce,94,Commerce,No,Not Placed,456429,ML,77
+6,M,75,Others,92,State,Science,97,Sci&Tech,No,Not Placed,418886,ML,76
+7,F,96,State,75,State,Science,82,Commerce,Yes,Not Placed,136121,Fullstack,76
+8,M,66,State,70,Others,Science,65,Commerce,No,Placed,467904,AI,83
+9,F,86,Others,96,State,Science,57,Commerce,No,Not Placed,154038,AI,90
+10,M,70,Others,71,Others,Commerce,50,Commerce,No,Placed,161052,ML,80
+11,F,67,State,84,State,Science,54,Commerce,No,Not Placed,362241,Blockchain,62
+12,M,80,Others,77,Others,Science,70,Sci&Tech,No,Not Placed,461762,Blockchain,100
+13,F,94,State,76,State,Science,98,Commerce,No,Not Placed,198674,AI,84
+14,M,66,State,69,State,Science,85,Commerce,Yes,Not Placed,142097,Blockchain,75
+15,F,98,Others,70,State,Commerce,98,Commerce,No,Not Placed,112570,Blockchain,64
+16,M,73,State,91,Others,Science,78,Commerce,No,Placed,170564,Fullstack,80
+17,F,68,State,82,State,Science,89,Commerce,No,Not Placed,236812,Fullstack,82
+18,M,91,Others,77,State,Science,72,Sci&Tech,No,Not Placed,433751,Blockchain,100
+19,F,79,State,65,State,Science,84,Commerce,No,Not Placed,236067,Fullstack,80
+20,M,70,Others,84,Others,Commerce,82,Commerce,Yes,Placed,262244,AI,80
+21,F,86,Others,64,State,Science,59,Commerce,Yes,Not Placed,298227,ML,88
+22,M,79,State,99,State,Science,54,Commerce,No,Not Placed,324884,ML,95
+23,F,82,State,98,State,Science,89,Commerce,No,Not Placed,499505,Fullstack,85
+24,M,91,Others,96,Others,Science,70,Sci&Tech,No,Placed,184899,AI,99
+25,F,83,State,72,State,Commerce,80,Commerce,No,Not Placed,351921,AI,72
+26,M,85,State,70,State,Science,79,Commerce,No,Not Placed,347687,ML,99
+27,F,89,Others,60,State,Science,56,Commerce,No,Not Placed,123284,ML,65
+28,M,71,State,100,Others,Science,71,Commerce,Yes,Not Placed,343739,Blockchain,74
+29,F,83,State,85,State,Science,76,Commerce,No,Not Placed,220075,Blockchain,87
+30,M,70,Others,80,Others,Commerce,56,Sci&Tech,No,Placed,264018,Blockchain,80
+31,F,62,State,77,State,Science,82,Commerce,No,Not Placed,498688,Fullstack,61
+32,M,86,State,92,Others,Science,89,Commerce,No,Placed,126298,Fullstack,60
+33,F,90,Others,67,State,Science,79,Commerce,No,Not Placed,307736,AI,89
+34,M,76,State,97,State,Science,93,Commerce,No,Not Placed,186624,ML,71
+35,F,84,State,95,State,Commerce,93,Commerce,Yes,Not Placed,411834,Blockchain,93
+36,M,62,Others,72,Others,Science,64,Sci&Tech,No,Not Placed,471073,ML,70
+37,F,68,State,83,State,Science,63,Commerce,No,Not Placed,211723,Fullstack,72
+38,M,88,State,93,State,Science,76,Commerce,No,Not Placed,298752,ML,70
+39,F,93,Others,92,State,Science,88,Commerce,No,Not Placed,202286,AI,60
+40,M,70,Others,97,Others,Commerce,79,Commerce,Yes,Placed,104518,Fullstack,80
+41,F,96,State,74,State,Science,72,Commerce,No,Not Placed,149608,Blockchain,80
+42,M,88,Others,85,State,Science,65,Sci&Tech,Yes,Not Placed,384469,Fullstack,84
+43,F,85,State,72,State,Science,72,Commerce,No,Not Placed,202392,ML,97
+44,M,64,State,92,Others,Science,53,Commerce,No,Not Placed,180308,AI,97
+45,F,80,Others,66,State,Commerce,90,Commerce,No,Not Placed,484422,Blockchain,93
+46,M,70,State,85,State,Science,82,Commerce,No,Not Placed,426690,AI,61
+47,F,81,State,61,State,Science,81,Commerce,No,Not Placed,108990,Fullstack,72
+48,M,89,Others,80,Others,Science,83,Sci&Tech,No,Placed,263349,Blockchain,89
+49,F,74,State,98,State,Science,50,Commerce,Yes,Not Placed,393700,ML,80
+50,M,70,Others,83,Others,Commerce,51,Commerce,No,Placed,249486,Fullstack,80
+51,F,72,Others,94,State,Science,95,Commerce,No,Not Placed,450917,Fullstack,68
+52,M,87,State,67,Others,Science,80,Commerce,No,Not Placed,235050,Blockchain,93
+53,F,64,State,86,State,Science,91,Commerce,No,Not Placed,387248,Blockchain,95
+54,M,91,Others,78,State,Science,91,Sci&Tech,No,Not Placed,166183,ML,90
+55,F,64,State,71,State,Commerce,64,Commerce,No,Not Placed,178973,ML,83
+56,M,97,State,66,Others,Science,83,Commerce,Yes,Placed,467952,AI,65
+57,F,62,Others,97,State,Science,87,Commerce,No,Not Placed,332116,AI,76
+58,M,92,State,81,State,Science,68,Commerce,No,Not Placed,410290,Blockchain,82
+59,F,70,State,82,State,Science,85,Commerce,No,Not Placed,256609,Fullstack,65
+60,M,70,Others,92,Others,Commerce,53,Sci&Tech,Yes,Placed,469171,Fullstack,80
+61,F,73,State,82,State,Science,54,Commerce,No,Not Placed,367909,Blockchain,90
+62,M,90,State,60,State,Science,50,Commerce,No,Not Placed,334238,AI,69
+63,F,95,Others,97,State,Science,100,Commerce,Yes,Not Placed,190512,AI,99
+64,M,99,State,94,Others,Science,74,Commerce,No,Placed,498141,AI,68
+65,F,98,State,84,State,Commerce,59,Commerce,No,Not Placed,318105,ML,67
+66,M,64,Others,89,State,Science,56,Sci&Tech,No,Not Placed,343680,ML,86
+67,F,83,State,82,State,Science,68,Commerce,No,Not Placed,112867,Fullstack,98
+68,M,88,State,79,Others,Science,64,Commerce,No,Not Placed,274264,Fullstack,97
+69,F,69,Others,66,State,Science,87,Commerce,No,Not Placed,179392,Blockchain,60
+70,M,70,Others,82,Others,Commerce,68,Commerce,No,Placed,245253,Blockchain,80
+71,F,99,State,80,State,Science,62,Commerce,No,Not Placed,333530,AI,81
+72,M,78,Others,86,Others,Science,72,Sci&Tech,No,Placed,117942,ML,70
+73,F,95,State,89,State,Science,50,Commerce,No,Not Placed,252612,Fullstack,94
+74,M,66,State,91,State,Science,100,Commerce,No,Not Placed,375842,Blockchain,96
+75,F,70,Others,71,State,Commerce,59,Commerce,No,Not Placed,404790,Blockchain,90
+76,M,85,State,78,Others,Science,58,Commerce,No,Not Placed,144858,Fullstack,65
+77,F,69,State,74,State,Science,81,Commerce,Yes,Not Placed,494527,AI,82
+78,M,70,Others,84,State,Science,51,Sci&Tech,No,Not Placed,485181,AI,81
+79,F,62,State,82,State,Science,68,Commerce,No,Not Placed,301190,Blockchain,66
+80,M,70,Others,73,Others,Commerce,87,Commerce,Yes,Placed,105067,Blockchain,80
+81,F,86,Others,76,State,Science,90,Commerce,No,Not Placed,420166,Fullstack,90
+82,M,75,State,79,State,Science,61,Commerce,No,Not Placed,155063,AI,95
+83,F,86,State,92,State,Science,64,Commerce,No,Not Placed,462377,AI,84
+84,M,90,Others,81,Others,Science,76,Sci&Tech,Yes,Not Placed,116054,ML,78
+85,F,85,State,77,State,Commerce,77,Commerce,No,Not Placed,374765,ML,86
+86,M,60,State,82,State,Science,51,Commerce,No,Not Placed,481799,AI,95
+87,F,88,Others,91,State,Science,71,Commerce,No,Not Placed,242044,Fullstack,70
+88,M,88,State,96,Others,Science,65,Commerce,No,Placed,492948,Blockchain,91
+89,F,86,State,73,State,Science,89,Commerce,No,Not Placed,432953,Blockchain,77
+90,M,70,Others,75,Others,Commerce,51,Sci&Tech,No,Placed,392247,Blockchain,80
+91,F,79,State,90,State,Science,88,Commerce,Yes,Not Placed,431343,AI,65
+92,M,100,State,73,Others,Science,80,Commerce,No,Not Placed,117126,ML,73
+93,F,61,Others,91,State,Science,74,Commerce,No,Not Placed,317823,Fullstack,100
+94,M,86,State,91,State,Science,99,Commerce,No,Not Placed,170701,AI,63
+95,F,72,State,74,State,Commerce,55,Commerce,No,Not Placed,359105,AI,93
+96,M,63,Others,65,Others,Science,95,Sci&Tech,No,Placed,385429,Fullstack,84
+97,F,74,State,86,State,Science,93,Commerce,No,Not Placed,439271,Blockchain,67
+98,M,85,State,68,State,Science,51,Commerce,Yes,Not Placed,359156,ML,74
+99,F,94,Others,99,State,Science,62,Commerce,No,Not Placed,338881,ML,75
+100,M,70,Others,72,Others,Commerce,96,Commerce,Yes,Placed,113504,AI,80
+101,F,65,State,98,State,Science,55,Commerce,No,Not Placed,310437,ML,68
+102,M,92,Others,81,State,Science,69,Sci&Tech,No,Not Placed,180613,Fullstack,100
+103,F,62,State,74,State,Science,63,Commerce,No,Not Placed,226668,Fullstack,91
+104,M,63,State,91,Others,Science,62,Commerce,No,Placed,148466,Fullstack,70
+105,F,71,Others,75,State,Commerce,76,Commerce,Yes,Not Placed,179723,AI,98
+106,M,68,State,100,State,Science,86,Commerce,No,Not Placed,155180,AI,75
+107,F,86,State,94,State,Science,62,Commerce,No,Not Placed,333816,Blockchain,63
+108,M,76,Others,89,Others,Science,88,Sci&Tech,No,Not Placed,410960,Blockchain,76
+109,F,75,State,60,State,Science,51,Commerce,No,Not Placed,236943,Blockchain,72
+110,M,70,Others,85,Others,Commerce,62,Commerce,No,Placed,363230,AI,80
+111,F,93,Others,68,State,Science,97,Commerce,No,Not Placed,368653,AI,85
+112,M,99,State,100,Others,Science,51,Commerce,Yes,Placed,288159,ML,98
+113,F,71,State,61,State,Science,89,Commerce,No,Not Placed,363215,Blockchain,72
+114,M,89,Others,82,State,Science,87,Sci&Tech,No,Not Placed,356741,Blockchain,97
+115,F,81,State,86,State,Commerce,77,Commerce,No,Not Placed,390830,Blockchain,85
+116,M,76,State,64,Others,Science,94,Commerce,No,Not Placed,446042,Fullstack,62
+117,F,75,Others,62,State,Science,98,Commerce,No,Not Placed,195405,Fullstack,70
+118,M,100,State,82,State,Science,79,Commerce,No,Not Placed,463930,AI,69
+119,F,97,State,89,State,Science,84,Commerce,Yes,Not Placed,307227,ML,100
+120,M,70,Others,99,Others,Commerce,96,Sci&Tech,Yes,Placed,494060,AI,80
+121,F,71,State,83,State,Science,98,Commerce,No,Not Placed,132843,ML,86
+122,M,84,State,80,State,Science,80,Commerce,No,Not Placed,208883,Blockchain,86
+123,F,87,Others,66,State,Science,72,Commerce,No,Not Placed,108463,Blockchain,91
+124,M,95,State,69,Others,Science,72,Commerce,No,Not Placed,226986,AI,65
+125,F,99,State,73,State,Commerce,92,Commerce,No,Not Placed,472751,ML,60
+126,M,88,Others,74,State,Science,72,Sci&Tech,Yes,Not Placed,282702,Blockchain,60
+127,F,79,State,63,State,Science,55,Commerce,No,Not Placed,263411,Fullstack,64
+128,M,89,State,97,Others,Science,57,Commerce,No,Placed,357841,Fullstack,81
+129,F,71,Others,70,State,Science,73,Commerce,No,Not Placed,377366,Blockchain,80
+130,M,70,Others,72,Others,Commerce,51,Commerce,No,Placed,341757,Fullstack,80
+131,F,76,State,69,State,Science,86,Commerce,No,Not Placed,121278,AI,97
+132,M,71,Others,87,Others,Science,70,Sci&Tech,No,Not Placed,281320,ML,81
+133,F,62,State,71,State,Science,77,Commerce,Yes,Not Placed,223406,Fullstack,70
+134,M,67,State,70,State,Science,82,Commerce,No,Not Placed,278150,Blockchain,65
+135,F,77,Others,94,State,Commerce,86,Commerce,No,Not Placed,370254,AI,62
+136,M,92,State,100,Others,Science,84,Commerce,No,Placed,415066,ML,80
+137,F,74,State,78,State,Science,59,Commerce,No,Not Placed,258722,Fullstack,93
+138,M,67,Others,94,State,Science,72,Sci&Tech,No,Not Placed,300820,Blockchain,62
+139,F,76,State,67,State,Science,87,Commerce,No,Not Placed,268552,ML,95
+140,M,70,Others,91,Others,Commerce,75,Commerce,Yes,Placed,391636,AI,80
+141,F,67,Others,97,State,Science,67,Commerce,No,Not Placed,231449,ML,88
+142,M,77,State,84,State,Science,52,Commerce,No,Not Placed,363174,Ml,69
+143,F,78,State,73,State,Science,99,Commerce,No,Not Placed,352904,ML,90
+144,M,80,Others,64,Others,Science,57,Sci&Tech,No,Placed,308105,AI,82
+145,F,68,State,72,State,Commerce,82,Commerce,No,Not Placed,109727,Fullstack,87
+146,M,65,State,72,State,Science,76,Commerce,No,Not Placed,175510,Blockchain,94
+147,F,61,Others,60,State,Science,58,Commerce,Yes,Not Placed,277681,Blockchain,94
+148,M,98,State,96,Others,Science,61,Commerce,No,Not Placed,333038,AI,60
+149,F,66,State,73,State,Science,76,Commerce,No,Not Placed,185162,ML,78
+150,M,70,Others,95,Others,Commerce,76,Sci&Tech,No,Placed,424074,ML,80
+151,F,100,State,73,State,Science,95,Commerce,No,Not Placed,342001,AI,63
+152,M,62,State,64,Others,Science,54,Commerce,No,Placed,180829,ml,68
+153,F,77,Others,90,State,Science,60,Commerce,No,Not Placed,493201,Fullstack,77
+154,M,70,State,61,State,Science,68,Commerce,Yes,Not Placed,487218,Fullstack,70
+155,F,84,State,89,State,Commerce,97,Commerce,No,Not Placed,211810,Blockchain,81
+156,M,99,Others,64,Others,Science,60,Sci&Tech,No,Not Placed,129031,ML,90
+157,F,81,State,68,State,Science,63,Commerce,No,Not Placed,436568,Fullstack,77
+158,M,75,State,70,State,Science,81,Commerce,No,Not Placed,152321,Blockchain,76
+159,F,72,Others,60,State,Science,79,Commerce,No,Not Placed,485087,AI,92
+160,M,70,Others,72,Others,Commerce,76,Commerce,Yes,Placed,143633,ML,80
+161,F,88,State,66,State,Science,83,Commerce,Yes,Not Placed,228486,ML,65
+162,M,87,Others,82,State,Science,62,Sci&Tech,No,Not Placed,163720,Fullstack,92
+163,F,94,State,80,State,Science,66,Commerce,No,Not Placed,248359,Fullstack,79
+164,M,64,State,75,Others,Science,98,Commerce,No,Not Placed,358533,Blockchain,75
+165,F,76,Others,76,State,Commerce,56,Commerce,No,Not Placed,268060,Blockchain,92
+166,M,96,State,90,State,Science,81,Commerce,No,Not Placed,420712,Fullstack,88
+167,F,98,State,88,State,Science,66,Commerce,No,Not Placed,325566,Fullstack,78
+168,M,94,Others,65,Others,Science,55,Sci&Tech,Yes,Placed,445771,ML,70
+169,F,78,State,73,State,Science,85,Commerce,No,Not Placed,385389,AI,70
+170,M,70,Others,71,Others,Commerce,50,Commerce,No,Placed,444385,ML,80
+171,F,94,Others,72,State,Science,89,Commerce,No,Not Placed,172116,ML,87
+172,M,64,State,94,Others,Science,77,Commerce,No,Not Placed,382986,AI,69
+173,F,68,State,100,State,Science,95,Commerce,No,Not Placed,126124,Fullstack,67
+174,M,82,Others,90,State,Science,79,Sci&Tech,No,Not Placed,323986,Blockchain,92
+175,F,65,State,72,State,Commerce,99,Commerce,Yes,Not Placed,317512,Fullstack,69
+176,M,64,State,71,Others,Science,94,Commerce,No,Placed,369444,Fullstack,76
+177,F,96,Others,83,State,Science,91,Commerce,No,Not Placed,168725,Blockchain,62
+178,M,88,State,85,State,Science,71,Commerce,No,Not Placed,499589,Blockchain,67
+179,F,95,State,80,State,Science,50,Commerce,No,Not Placed,496918,AI,74
+180,M,70,Others,78,Others,Commerce,96,Sci&Tech,Yes,Placed,152636,ML,80
+181,F,86,State,84,State,Science,73,Commerce,No,Not Placed,134172,ML,88
+182,M,98,State,93,State,Science,69,Commerce,Yes,Not Placed,438294,AI,81
+183,F,65,Others,61,State,Science,92,Commerce,No,Not Placed,233915,Fullstack,65
+184,M,69,State,80,Others,Science,71,Commerce,No,Placed,182364,Fullstack,78
+185,F,82,State,61,State,Commerce,52,Commerce,No,Not Placed,323329,Blockchain,66
+186,M,81,Others,96,State,Science,89,Sci&Tech,No,Not Placed,215903,Blockchain,98
+187,F,71,State,67,State,Science,71,Commerce,No,Not Placed,398144,Blockchain,79
+188,M,65,State,83,Others,Science,74,Commerce,No,Not Placed,279984,ML,73
+189,F,69,Others,75,State,Science,88,Commerce,Yes,Not Placed,259950,ML,66
+190,M,70,Others,90,Others,Commerce,61,Commerce,No,Placed,269046,Fullstack,80
+191,F,99,State,92,State,Science,90,Commerce,No,Not Placed,244331,Blockchain,66
+192,M,64,Others,90,Others,Science,98,Sci&Tech,No,Placed,296485,Fullstack,98
+193,F,97,State,95,State,Science,72,Commerce,No,Not Placed,430641,AI,86
+194,M,63,State,82,State,Science,73,Commerce,No,Not Placed,474703,AI,71
+195,F,98,Others,73,State,Commerce,53,Commerce,No,Not Placed,354969,ML,73
+196,M,80,State,85,Others,Science,97,Commerce,Yes,Not Placed,260774,AI,64
+197,F,80,State,63,State,Science,81,Commerce,No,Not Placed,345896,ML,62
+198,M,61,Others,75,State,Science,97,Sci&Tech,No,Not Placed,313438,Fullstack,73
+199,F,82,State,68,State,Science,67,Commerce,No,Not Placed,215436,Blockchain,70
+200,M,70,Others,82,Others,Commerce,77,Commerce,Yes,Placed,469763,Fullstack,80
+201,F,74,Others,79,State,Science,74,Commerce,No,Not Placed,438061,Blockchain,98
+202,M,90,State,71,State,Science,96,Commerce,No,Not Placed,254398,AI,84
+203,F,76,State,69,State,Science,62,Commerce,Yes,Not Placed,239907,ML,78
+204,M,93,Others,75,Others,Science,65,Sci&Tech,No,Not Placed,287414,Fullstack,97
+205,F,80,State,90,State,Commerce,72,Commerce,No,Not Placed,217611,ML,65
+206,M,81,State,93,State,Science,100,Commerce,No,Not Placed,377484,ML,66
+207,F,96,Others,85,State,Science,65,Commerce,No,Not Placed,236858,AI,62
+208,M,62,State,60,Others,Science,65,Commerce,No,Placed,429818,ML,88
+209,F,90,State,97,State,Science,64,Commerce,No,Not Placed,375332,ML,81
+210,M,70,Others,79,Others,Commerce,64,Sci&Tech,No,Placed,199753,ML,80
+211,F,90,State,93,State,Science,70,Commerce,No,Not Placed,281818,AI,81
+212,M,68,State,75,Others,Science,73,Commerce,No,Not Placed,292418,Fullstack,89
+213,F,86,Others,78,State,Science,96,Commerce,No,Not Placed,131440,ML,80
+214,M,76,State,96,State,Science,86,Commerce,No,Not Placed,476867,AI,67
+215,F,90,State,66,State,Commerce,64,Commerce,No,Not Placed,493036,ML,83
+216,M,60,Others,68,Others,Science,61,Sci&Tech,No,Placed,269379,Fullstack,92
+217,F,63,State,77,State,Science,64,Commerce,Yes,Not Placed,461417,Fullstack,69
+218,M,77,State,93,State,Science,74,Commerce,No,Not Placed,453896,Blockchain,80
+219,F,62,Others,66,State,Science,80,Commerce,No,Not Placed,135980,Blockchain,75
+220,M,70,Others,94,Others,Commerce,75,Commerce,Yes,Placed,155199,AI,80
+221,F,88,State,63,State,Science,61,Commerce,No,Not Placed,130668,ML,80
+222,M,99,Others,75,State,Science,82,Sci&Tech,No,Not Placed,391659,AI,84
+223,F,78,State,90,State,Science,68,Commerce,No,Not Placed,259299,ML,65
+224,M,77,State,76,Others,Science,65,Commerce,Yes,Placed,277408,Fullstack,66
+225,F,91,Others,98,State,Commerce,100,Commerce,No,Not Placed,205087,ML,100
+226,M,65,State,81,State,Science,89,Commerce,No,Not Placed,495919,AI,98
+227,F,71,State,90,State,Science,69,Commerce,No,Not Placed,229273,ML,63
+228,M,96,Others,87,Others,Science,90,Sci&Tech,No,Not Placed,101614,AI,67
+229,F,66,State,94,State,Science,91,Commerce,No,Not Placed,136786,ML,95
+230,M,70,Others,93,Others,Commerce,89,Commerce,No,Placed,117361,AI,80
+231,F,82,Others,85,State,Science,74,Commerce,Yes,Not Placed,477026,ML,69
+232,M,84,State,95,Others,Science,80,Commerce,No,Placed,128772,AI,77
+233,F,87,State,90,State,Science,78,Commerce,No,Not Placed,437115,AI,87
+234,M,99,Others,97,State,Science,59,Sci&Tech,No,Not Placed,252537,ML,80
+235,F,68,State,75,State,Commerce,72,Commerce,No,Not Placed,138044,Fullstack,99
+236,M,85,State,92,Others,Science,52,Commerce,No,Not Placed,165062,Fullstack,72
+237,F,99,Others,76,State,Science,55,Commerce,No,Not Placed,197593,ML,99
+238,M,95,State,61,State,Science,71,Commerce,Yes,Not Placed,128388,Blockchain,87
+239,F,67,State,99,State,Science,80,Commerce,No,Not Placed,243516,Blockchain,85
+240,M,70,Others,82,Others,Commerce,100,Sci&Tech,Yes,Placed,427601,Blockchain,80
+241,F,89,State,65,State,Science,87,Commerce,No,Not Placed,103261,Fullstack,66
+242,M,72,State,75,State,Science,59,Commerce,No,Not Placed,147629,AI,79
+243,F,63,Others,97,State,Science,100,Commerce,No,Not Placed,371946,ML,100
+244,M,89,State,92,Others,Science,85,Commerce,No,Not Placed,365207,AI,99
+245,F,65,State,60,State,Commerce,98,Commerce,Yes,Not Placed,301448,ML,99
+246,M,90,Others,62,State,Science,92,Sci&Tech,No,Not Placed,115729,Fullstack,86
+247,F,77,State,98,State,Science,92,Commerce,No,Not Placed,272277,AI,64
+248,M,96,State,89,Others,Science,88,Commerce,No,Placed,208012,ML,91
+249,F,89,Others,60,State,Science,80,Commerce,No,Not Placed,186405,ML,72
+250,M,70,Others,84,Others,Commerce,58,Commerce,No,Placed,415353,AI,80

@@ -1,0 +1,58 @@
+{% load static %}  <!-- Load static files -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Campus Placement Prediction and Analysis</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            /* Corrected background-image path */
+            background-image: url("{% static 'images/home.jpg' %}");
+            background-size: cover;
+            background-position: center;
+            height: 100vh;
+            display: flex;
+            flex-direction: column; /* Changed flex-direction to column */
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+
+        .container {
+            backdrop-filter: blur(20px);
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 40px 20px; /* Adjusted padding */
+            border-radius: 10px;
+        }
+
+        h1 {
+            margin-top: 0;
+        }
+
+        p {
+            margin-bottom: 0;
+        }
+
+        .next-button {
+            margin-top: 20px; /* Adjust the margin as needed */
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Campus Placement Prediction and Analysis</h1>
+        <p>Empowering institutions with predictive analytics for optimal student placement strategies</p>
+    </div>
+
+    <!-- Button to redirect to index.html -->
+    <a href="{% url 'predict' %}" class="btn next-button">Next</a>
+</body>
+
+</html>
